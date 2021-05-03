@@ -8,6 +8,7 @@ namespace CSharpMethodOverriding
         public override void Draw()
         {
             Console.WriteLine("Draw a Rectangle Using Method Override");
+            Console.WriteLine("Hello I am Rectangle");
         }
     }
 
